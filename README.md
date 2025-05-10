@@ -120,6 +120,7 @@ After collecting data and training your model:
 ## Project Structure
 
 Hand-Sign-Language-Detection/
+```bash
 ├── Data/                     # Stores collected images for each alphabet
 │   ├── A/
 │   ├── B/
@@ -129,3 +130,4 @@ Hand-Sign-Language-Detection/
 ├── HandSignDetector_DataCollection.py # Script for collecting hand sign images
 ├── HandSignDetector_Test.py         # Script for real-time hand sign detection
 └── README.md                        # This file
+ ```
